@@ -4,7 +4,7 @@ A sticky notes board that runs in the browser. Notes, images and arrows sit on a
 you can keep several boards, and everything stays on your own computer. It works offline and can
 be installed as an app.
 
-POKO is the rebuilt version of [NOTEPOKO](https://github.com/tangpoko/NOTEPOKO).
+POKO is the rebuilt version of NOTEPOKO, an earlier sticky notes app.
 
 ## What it does
 
