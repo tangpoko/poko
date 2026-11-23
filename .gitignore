@@ -1,0 +1,12 @@
+.claude/
+CLAUDE.md
+poko.html
+node_modules/
+__pycache__/
+.venv/
+.env*
+*.zip
+*.mp4
+*.mov
+*.wav
+*.mp3
